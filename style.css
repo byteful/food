@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AloneOnEarth';
+  font-stretch: normal;
+  src: url('Alone On Earth.otf') format('truetype');
+  font-style: normal;
+}
+
+body {
+  overflow: hidden;
+  margin: 0 auto;
+  font-family: 'AloneOnEarth';
+}
